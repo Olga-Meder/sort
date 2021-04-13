@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/olga/Pulpit/Programowanie/sortowanie/main.cpp
+iostream
+-
+cstdlib
+-
+cstdio
+-
+ctime
+-
+
